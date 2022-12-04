@@ -1,4 +1,4 @@
-# The Ultimate FBW-WD-D07 Student-Name-Generator 3000&trade; &copy;!
+# **WIP** | The Ultimate FBW-WD-D07 Student-Name-Generator 3000&trade; &copy;! | **WIP**
 
 Just a fun little project made with the intention that our teachers can randomly generate the name of a student of our class 'FBW-WD-D07', to make it easier to choose who should present the current assignment or answer a question.
 
