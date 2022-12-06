@@ -15,18 +15,17 @@ body {
   background-color: #263e56;
   font-size: 1.6rem;
   font-family: sans-serif;
-  height: 100vh;
 }
 body h1 {
   font-size: 2.8rem;
   color: #ed3c34;
   text-align: center;
   padding: 5px;
-  margin: 50px auto;
+  margin: 5px auto;
 }
 
 .main-container {
-  margin: 50px auto;
+  margin: 25px auto;
   width: 350px;
   height: 456px;
   display: flex;
@@ -73,10 +72,6 @@ body h1 {
   text-align: center;
 }
 
-footer {
-  position: fixed;
-  bottom: 0;
-}
 footer hr {
   width: 90%;
   height: 1px;
