@@ -80,12 +80,11 @@ body h1 {
   .main-container .reset {
     background: linear-gradient(to right, #f8aa4c 50%, #ed3c34 50%);
     background-size: 200% 100%;
-    transition: background 2s ease, color 2s ease-out;
+    transition: 2s ease;
   }
   .main-container .generate:hover,
   .main-container .reset:hover {
-    background-position: right bottom;
-    color: #f8aa4c;
+    color: to right #f8aa4c;
   }
 }
 
@@ -138,4 +137,4 @@ footer p a {
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css%23.map */
