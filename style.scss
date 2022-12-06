@@ -33,6 +33,9 @@ body {
             position: fixed;
             top: 5px;
         }
+        @media (min-width: 992px) {
+            top: 50px;
+        }
     }
 }
 .main-container {
