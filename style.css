@@ -34,9 +34,9 @@ body h1 {
 }
 @media (min-width: 768px) {
   body h1 {
-    font-size: 4.3rem;
+    font-size: 3rem;
     position: fixed;
-    top: 25px;
+    top: 5px;
   }
 }
 
@@ -80,7 +80,7 @@ body h1 {
   .main-container .reset {
     background: linear-gradient(to right, #f8aa4c 50%, #ed3c34 50%);
     background-size: 200% 100%;
-    transition: background 2s ease, color 2s ease-out;
+    transition: background 2s ease, color 2s linear;
   }
   .main-container .generate:hover,
   .main-container .reset:hover {
