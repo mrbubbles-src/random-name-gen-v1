@@ -20,3 +20,4 @@
 -   SASS code for basic styling (MAYBE finished design?)
 -   add mobile layout (doh! was only planned as a Desktop variant but now that I think about it, a mobile version might be nice as well? IDK need to think about it)
 -   Button Animations
+-   added favicon

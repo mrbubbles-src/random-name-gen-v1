@@ -31,10 +31,11 @@ body {
         @media (min-width: 768px) {
             font-size: 3rem;
             position: fixed;
-            top: 5px;
+            top: 50px;
         }
         @media (min-width: 992px) {
-            top: 50px;
+            font-size: 4rem;
+            top: 35px;
         }
     }
 }

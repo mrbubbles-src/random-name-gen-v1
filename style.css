@@ -36,12 +36,13 @@ body h1 {
   body h1 {
     font-size: 3rem;
     position: fixed;
-    top: 5px;
+    top: 50px;
   }
 }
 @media (min-width: 992px) {
   body h1 {
-    top: 50px;
+    font-size: 4rem;
+    top: 35px;
   }
 }
 
