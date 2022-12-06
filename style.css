@@ -92,6 +92,7 @@ body h1 {
   .main-container .reset:hover {
     background-position: right bottom;
     color: #f8aa4c;
+    cursor: pointer;
   }
 }
 
