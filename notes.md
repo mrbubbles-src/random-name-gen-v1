@@ -21,3 +21,4 @@
 -   add mobile layout (doh! was only planned as a Desktop variant but now that I think about it, a mobile version might be nice as well? IDK need to think about it)
 -   Button Animations
 -   added favicon
+-   added cursor pointer on hover to buttons
